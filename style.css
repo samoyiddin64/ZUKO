@@ -1,0 +1,27 @@
+.katta{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.katta{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.shkola{
+    margin-left: -150px;
+    color: red;
+    width: 250px;
+    height: 40px;
+}
+.imgs{
+    display: flex;
+    align-items: center ;
+    gap: 20px;
+}
+.button{
+    width: 150px;
+    border: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: red;
+    color: white;
+    height: 40px;
+}
